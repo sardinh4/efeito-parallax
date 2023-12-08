@@ -15,7 +15,7 @@ img/: Diretório contendo as imagens do site
 README.md: Documentação com as informações sobre o projeto. 
 LICENSE: licença.
 
-O Projeto foi desenvolvido com base no vídeo do youtube "How To Make A Responsive Coffee Shop Website Design Using HTML - CSS - JavaScript || From Scratch - Mr. Web Designer"
+O Projeto foi desenvolvido com base no vídeo do youtube "CSS Parallax Scrolling Website | How to Make Website using HTML CSS and Javascript - Codehal"
 
 🔗 Link do Vídeo:
 
