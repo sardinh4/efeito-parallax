@@ -23,4 +23,4 @@ https://www.youtube.com/watch?v=kmM6mqvnxcs
 
 🔗 Link da Demo da Página:
 
-https://sardinh4.github.io/Parallax-Page/
+https://sardinh4.github.io/efeito-parallax/
